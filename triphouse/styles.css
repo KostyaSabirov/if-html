@@ -1,0 +1,117 @@
+@import url('../triphouse/styles/fonts.css');
+
+.advantages {
+  margin: auto;
+  width: 1440px;
+  min-height: 569px;
+  padding-top: 120px;
+}
+.title {
+  height: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+  font: 500 40px'Roboto', sans-serif;
+}
+hr {
+  width: 100px;
+  height: 4px;
+  background: #f5bd41;
+  margin-bottom: 80px;
+  text-align: center;
+}
+.offers{
+    display: flex;
+    justify-content: space-between;
+}
+.support-info {
+  display: inline-block;
+  width: 290px;
+  height: 180px;
+}
+.support-image {
+  margin: 0 110px 50px;
+}
+.support-text {
+  text-align: center;
+  font: 400 24px 'Roboto', sans-serif;
+}
+.communicate {
+  display: inline-block;
+  width: 290px;
+  height: 180px;
+}
+.communicate-image {
+  margin: 0 100px 50px;
+}
+.communicate-text {
+  text-align: center;
+  font: 400 24px 'Roboto', sans-serif;
+}
+.booking {
+  display: inline-block;
+  width: 290px;
+  height: 180px;
+}
+.booking-image {
+  margin: 0 100px 50px;
+}
+.booking-text {
+  text-align: center;
+  font: 400 24px 'Roboto', sans-serif;
+}
+.reviews {
+  display: inline-block;
+  width: 290px;
+  height: 180px;
+}
+.reviews-image {
+  margin: 0 100px 50px;
+}
+.reviews-text {
+  text-align: center;
+  font: 400 24px 'Roboto', sans-serif;
+}
+.footer{
+    margin: 0 auto;
+    padding-top: 120px;
+    background-color: #10367C;
+    height: 630px;
+    width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+.about{
+    width: 195px;
+    height: 210px;
+    margin-left: 100px;
+    margin-right: 220px;
+    font: 400 20px 'Roboto', sans-serif;
+}
+.about-title{
+  font: 500 20px 'Roboto', sans-serif;
+}
+.types{
+    width: 135px;
+    height: 310px;
+    margin-right: 280px;
+    font: 400 20px 'Roboto', sans-serif;
+}
+.types-title{
+  font: 500 20px 'Roboto', sans-serif;
+}
+.support{
+    width: 235px;
+    height: 120px;
+    margin-right: 270px;
+    font: 400 20px 'Roboto', sans-serif;
+}
+.support-title{
+  font: 500 20px 'Roboto', sans-serif;
+}
+.copyright{
+    margin-left: 100px;
+    margin-top: 65px;
+    margin-bottom: 120px;
+    font: 400 20px 'Roboto', sans-serif;
+}
