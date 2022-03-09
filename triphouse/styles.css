@@ -18,6 +18,7 @@ hr {
   background: #f5bd41;
   margin-bottom: 80px;
   text-align: center;
+  border: none;
 }
 .offers{
     display: flex;
@@ -25,11 +26,11 @@ hr {
 }
 .support-info {
   display: inline-block;
-  width: 290px;
+  width: 25%;
   height: 180px;
 }
 .support-image {
-  margin: 0 110px 50px;
+  margin: 0 140px 50px;
 }
 .support-text {
   text-align: center;
@@ -37,11 +38,11 @@ hr {
 }
 .communicate {
   display: inline-block;
-  width: 290px;
+  width: 25%;
   height: 180px;
 }
 .communicate-image {
-  margin: 0 100px 50px;
+  margin: 0 130px 50px;
 }
 .communicate-text {
   text-align: center;
@@ -49,11 +50,11 @@ hr {
 }
 .booking {
   display: inline-block;
-  width: 290px;
+  width: 25%;
   height: 180px;
 }
 .booking-image {
-  margin: 0 100px 50px;
+  margin: 0 130px 50px;
 }
 .booking-text {
   text-align: center;
@@ -61,11 +62,11 @@ hr {
 }
 .reviews {
   display: inline-block;
-  width: 290px;
+  width: 25%;
   height: 180px;
 }
 .reviews-image {
-  margin: 0 100px 50px;
+  margin: 0 130px 50px;
 }
 .reviews-text {
   text-align: center;
@@ -76,40 +77,38 @@ hr {
     padding-top: 120px;
     background-color: #10367C;
     height: 630px;
-    width: 1440px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     color: #fff;
 }
 .about{
-    width: 195px;
+    width: 33.33%;
     height: 210px;
     margin-left: 100px;
-    margin-right: 220px;
     font: 400 20px 'Roboto', sans-serif;
 }
 .about-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .types{
-    width: 135px;
+    width: 33.33%;
     height: 310px;
-    margin-right: 280px;
     font: 400 20px 'Roboto', sans-serif;
 }
 .types-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .support{
-    width: 235px;
+    width: 33.33%;
     height: 120px;
-    margin-right: 270px;
     font: 400 20px 'Roboto', sans-serif;
 }
 .support-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .copyright{
+    width: 33.33%;
     margin-left: 100px;
     margin-top: 65px;
     margin-bottom: 120px;
