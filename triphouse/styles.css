@@ -1,5 +1,41 @@
 @import url('../triphouse/styles/fonts.css');
 
+.wrapper{
+  width: 1440px;
+  margin: auto;
+}
+header{
+  background-image: url(../triphouse/img/view.png);
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 900px;
+  padding-top: 50px;
+}
+.header{
+  margin: 0 100px 200px 100px;
+  width: 1230px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 40px;
+}
+.header-logo{
+  width: 205px;
+  height: 40px;
+}
+.header-menu li{
+  display: inline-block;
+  margin-left: 24px;
+  
+}
+.theme{
+  width: 30px;
+  height: 30px;
+}
+.logo{
+  width: 40px;
+  height: 40px;
+}
 .advantages {
   margin: auto;
   width: 1440px;
@@ -74,43 +110,41 @@ hr {
 }
 .footer{
     margin: 0 auto;
-    padding-top: 120px;
     background-color: #10367C;
     height: 630px;
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+    padding-top: 120px;
     color: #fff;
 }
+.info{
+  display: flex;
+  align-items: flex-start;
+  margin: 0 270px 65px 105px;
+}
 .about{
-    width: 33.33%;
-    height: 210px;
-    margin-left: 100px;
     font: 400 20px 'Roboto', sans-serif;
+    width: 200px;
+    margin-right: 220px;
 }
 .about-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .types{
-    width: 33.33%;
-    height: 310px;
     font: 400 20px 'Roboto', sans-serif;
+    width: 140px;
+    margin-right: 280px;
 }
 .types-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .support{
-    width: 33.33%;
-    height: 120px;
     font: 400 20px 'Roboto', sans-serif;
+    width: 240px;
 }
 .support-title{
   font: 500 20px 'Roboto', sans-serif;
 }
 .copyright{
-    width: 33.33%;
-    margin-left: 100px;
-    margin-top: 65px;
-    margin-bottom: 120px;
+    margin: 0 0 120px 105px;
     font: 400 20px 'Roboto', sans-serif;
 }
