@@ -3,12 +3,11 @@
 .container{
   max-width: 1440px;
   margin: 0 auto;
+  padding: 105px 105px 130px 105px
 }
 .advantages {
-  margin: auto;
-  width: 1440px;
+  margin: 0 auto;
   min-height: 569px;
-  padding-top: 120px;
 }
 .title {
   height: 50px;
@@ -78,11 +77,10 @@ hr {
 }
 .wrapper{
   background-color: #10367C;
+  padding: 120px 0;
 }
 .footer{
-    max-height: 630px;
-    width: 100%;
-    padding: 120px 0;
+    width: 100%; 
     color: #fff;
 }
 .info{
@@ -92,7 +90,6 @@ hr {
 }
 .about{
     font: 400 20px 'Roboto', sans-serif;
-    width: 200px;
     margin-right: 220px;
 }
 .about-title{
@@ -100,7 +97,6 @@ hr {
 }
 .types{
     font: 400 20px 'Roboto', sans-serif;
-    width: 140px;
     margin-right: 280px;
 }
 .types-title{
