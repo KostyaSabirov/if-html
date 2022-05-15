@@ -32,10 +32,10 @@ hr {
   width: 25%;
   height: 180px;
 }
-.support-image {
+.image {
   margin: 0 140px 50px;
 }
-.support-text {
+.text {
   text-align: center;
   font: 400 24px 'Roboto', sans-serif;
 }
@@ -44,37 +44,19 @@ hr {
   width: 25%;
   height: 180px;
 }
-.communicate-image {
-  margin: 0 130px 50px;
-}
-.communicate-text {
-  text-align: center;
-  font: 400 24px 'Roboto', sans-serif;
-}
+
 .booking {
   display: inline-block;
   width: 25%;
   height: 180px;
 }
-.booking-image {
-  margin: 0 130px 50px;
-}
-.booking-text {
-  text-align: center;
-  font: 400 24px 'Roboto', sans-serif;
-}
+
 .reviews {
   display: inline-block;
   width: 25%;
   height: 180px;
 }
-.reviews-image {
-  margin: 0 130px 50px;
-}
-.reviews-text {
-  text-align: center;
-  font: 400 24px 'Roboto', sans-serif;
-}
+
 .wrapper{
   background-color: #10367C;
   padding: 120px 0;
