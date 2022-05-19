@@ -1,19 +1,15 @@
-@import url('../triphouse/styles/fonts.css');
+@import url("../triphouse/styles/fonts.css");
 
-.container{
+.container {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 105px 105px 130px 105px
-}
-.advantages {
-  margin: 0 auto;
-  min-height: 569px;
+  padding: 120px 100px;
 }
 .title {
   height: 50px;
   text-align: center;
   margin-bottom: 20px;
-  font: 500 40px 'Roboto', sans-serif;
+  font: 500 40px "Roboto", sans-serif;
 }
 hr {
   width: 100px;
@@ -23,75 +19,70 @@ hr {
   text-align: center;
   border: none;
 }
-.support{
-    display: flex;
-    justify-content: space-between;
+.support {
+  display: flex;
+  justify-content: space-between;
 }
 .support-info {
   display: inline-block;
   width: 25%;
-  height: 180px;
 }
 .image {
-  margin: 0 140px 50px;
+  margin: 0 115px 50px;
 }
 .text {
   text-align: center;
-  font: 400 24px 'Roboto', sans-serif;
+  margin: 0 auto;
+  font: 400 24px "Roboto", sans-serif;
 }
 .communicate {
   display: inline-block;
   width: 25%;
-  height: 180px;
 }
 
 .booking {
   display: inline-block;
   width: 25%;
-  height: 180px;
 }
 
 .reviews {
   display: inline-block;
   width: 25%;
-  height: 180px;
 }
 
-.wrapper{
-  background-color: #10367C;
-  padding: 120px 0;
+.wrapper {
+  background-color: #10367c;
+  padding: 120px 105px;
 }
-.footer{
-    width: 100%; 
-    color: #fff;
+.footer {
+  width: 100%;
+  color: #fff;
 }
-.info{
+.info {
   display: flex;
   align-items: flex-start;
-  margin: 0 270px 65px 105px;
 }
-.about{
-    font: 400 20px 'Roboto', sans-serif;
-    margin-right: 220px;
+.about {
+  font: 400 20px "Roboto", sans-serif;
+  margin-right: 220px;
 }
-.about-title{
-  font: 500 20px 'Roboto', sans-serif;
+.about-title {
+  font: 500 20px "Roboto", sans-serif;
 }
-.types{
-    font: 400 20px 'Roboto', sans-serif;
-    margin-right: 280px;
+.types {
+  font: 400 20px "Roboto", sans-serif;
+  margin-right: 280px;
 }
-.types-title{
-  font: 500 20px 'Roboto', sans-serif;
+.types-title {
+  font: 500 20px "Roboto", sans-serif;
 }
-.contact{
-    font: 400 20px 'Roboto', sans-serif;
-    width: 240px;
+.contact {
+  font: 400 20px "Roboto", sans-serif;
+  width: 240px;
 }
-.support-title{
-  font: 500 20px 'Roboto', sans-serif;
+.support-title {
+  font: 500 20px "Roboto", sans-serif;
 }
-.copyright{
-    margin-left: 105px;
-    font: 400 20px 'Roboto', sans-serif;
+.copyright {
+  font: 400 20px "Roboto", sans-serif;
 }
